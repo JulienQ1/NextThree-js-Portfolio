@@ -31,7 +31,7 @@ const SmartphoneiFrame = React.memo(() => {
                         width={392}
                         height={809}
                         title="embed"
-                        src="https://www.julienquenneville.com"
+                        src="https://ephemeral-crumble-00df93.netlify.app/"
                         style={{ border: 'none', borderRadius: '22px' }}
                         ref={iframeRef}
                     />
